@@ -1,4 +1,4 @@
-## Hi there ididfuigzfweguw👋
+## Hi there 👋
 
 <!--
 **AbdellahAkhssay/abdellahakhssay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
