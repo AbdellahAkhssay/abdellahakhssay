@@ -7,6 +7,9 @@
   <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 </a>
 
+<!-- هادي هي صورة الأنمي الكبيرة اللي زدتها فقط -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Anime Girl" width="350" style="display: block; margin: 20px auto;" />
+
 - 👋 Hi, I'm Abdellah, a passionate Frontend Developer and Cybersecurity enthusiast.
 - 🔭 Currently working on building clean and responsive user interfaces.
 - 🌱 Continuously learning and practicing cybersecurity techniques.
@@ -32,6 +35,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Ryuk_anime.png" alt="Ryuk from Death Note" width="400" />
+- وهكذا تبقى كلشي بحالو بلا أي تغيير، غير الصورة الكبيرة تزادت وسط الملف.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AbdellahAkhssay&show_icons=true&theme=radical)](https://github.com/AbdellahAkhssay)
