@@ -19,7 +19,8 @@
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="3.5%"/>](https://github.com/abdellah-yourusername) &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/abdellah-twitter) &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/abdellah-linkedin) &nbsp; 
-<a href="mailto:abdellah@example.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdellah05akhssay@gmail.com)
+
 
 #### 👨🏻‍💻 Languages & Tools:
 
