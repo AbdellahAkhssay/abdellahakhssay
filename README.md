@@ -12,9 +12,9 @@
 - 🌱 Continuously learning and practicing cybersecurity techniques.
 - 💬 Ask me about React, CSS, JavaScript, or cybersecurity.
 - 😄 I enjoy tackling new challenges and growing my skills every day.
-- ⚡ Fun fact: I love exploring new technologies and hacking (the ethical way!).
+- ⚡ Fun fact: I love exploring new technologies and ethical hacking!
 
-#### 📫 How to reach me:
+#### 📫 Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="3.5%"/>](https://github.com/abdellah-yourusername) &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/abdellah-twitter) &nbsp; 
@@ -32,5 +32,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kali-linux/kali-linux.png"></code>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=abdellah-yourusername&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=abdellah-yourusername&show_icons=true&theme=radical)
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=AbdellahAkhssay-yourusername&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=abdellah-yourusername&show_icons=true&theme=radical)
