@@ -1,4 +1,5 @@
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" />
+<img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" alt="Anime Girl" width="350" style="display: block; margin: 20px auto;" />
 
 ![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
@@ -34,7 +35,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
-
-- وهكذا تبقى كلشي بحالو بلا أي تغيير، غير الصورة الكبيرة تزادت وسط الملف.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AbdellahAkhssay&show_icons=true&theme=radical)](https://github.com/AbdellahAkhssay)
