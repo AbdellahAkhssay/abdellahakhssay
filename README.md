@@ -1,11 +1,13 @@
-### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" />
 
-![](https://komarev.com/ghpvc/?username=abdellah-yourusername&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal">
   <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 </a>
+
+<img src="https://media.giphy.com/media/WP7n6VkyDncRG/giphy.gif" alt="Ryuk from Death Note" align="right" width="150" />
 
 - 👋 Hi, I'm Abdellah, a passionate Frontend Developer and Cybersecurity enthusiast.
 - 🔭 Currently working on building clean and responsive user interfaces.
@@ -16,11 +18,8 @@
 
 #### 📫 Connect with me:
 
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="3.5%"/>](https://github.com/abdellah-yourusername) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/abdellah-twitter) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/abdellah-linkedin) &nbsp; 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AbdellahAkhssay) &nbsp; 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdellah05akhssay@gmail.com)
-
 
 #### 👨🏻‍💻 Languages & Tools:
 
@@ -34,7 +33,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
-
-
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AbdellahAkhssay&show_icons=true&theme=radical)](https://github.com/AbdellahAkhssay)
