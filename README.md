@@ -6,8 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal">
+
 
 <!-- هادي هي صورة الأنمي الكبيرة اللي زدتها فقط -->
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Anime Girl" width="350" style="display: block; margin: 20px auto;" />
