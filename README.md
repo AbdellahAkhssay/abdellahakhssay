@@ -2,7 +2,6 @@
 <!-- استبدلنا الصورة الكبيرة الأولى بهادي -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" alt="Anime Girl" width="350" style="display: block; margin: 20px auto;" />
 
 ![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
@@ -28,3 +27,4 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <c
+
