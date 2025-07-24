@@ -9,7 +9,7 @@
 
 
 <!-- هادي هي صورة الأنمي الكبيرة اللي زدتها فقط -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Anime Girl" width="350" style="display: block; margin: 20px auto;" />
+
 
 - 👋 Hi, I'm Abdellah, a passionate Frontend Developer and Cybersecurity enthusiast.
 - 🔭 Currently working on building clean and responsive user interfaces.
