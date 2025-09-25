@@ -1,46 +1,39 @@
 <!-- صورة الهيدر -->
-<img src="https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub" alt="My GitHub README header image">
+<!-- صورة الهيدر -->
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<p align="center">
-  <a href="https://x.com/USERNAME"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/USERNAME/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/@USERNAME"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-  <a href="https://medium.com/@USERNAME"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-  <a href="https://dev.to/USERNAME"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
+![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
----
-
-## 👨‍💻 About Me  
-- 💡 أنا عبد الله، مبرمج كنخدم بلغة C و Git.  
-- 📚 كنعلّم الرياضيات للأطفال والمبتدئين فالبرمجة.  
-- 🚀 حالياً كنخدم على مشروع [Note Manager](#).  
-
----
-
-## 📌 Projects  
-- 🔹 [Note Manager in C](#) – مشروع لإدارة الملاحظات.  
-- 🔹 [Math Learning for Kids](#) – محتوى تعليمي للأطفال.  
-
----
-
-## 📝 Latest Blog Posts  
-- [لماذا تعلمت C بدل Python](#)  
-- [كيفاش تخدم ب Git و GitHub فـ WSL](#)  
-- [مدخل لبرمجة الخوارزميات](#)  
-
-➡️ [المزيد من المقالات](#)
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
-<a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/abdellahakhssay">
+  <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 </a>
+
+---
+
+### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" />
+
+- 👋 Hi, I'm **Abdellah**, a passionate **Frontend Developer** and **Cybersecurity** enthusiast.  
+- 🔭 Currently working on building **clean and responsive user interfaces**.  
+- 🌱 Continuously learning and practicing **cybersecurity techniques**.  
+- 💬 Ask me about **React, CSS, JavaScript, or cybersecurity**.  
+- 😄 I enjoy tackling new challenges and growing my skills every day.  
+- ⚡ Fun fact: I love exploring **new technologies** and **ethical hacking**!  
+
+---
+
+## 📫 Connect with me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AbdellahAkhssay) &nbsp; 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdellah05akhssay@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellahakhssay/)
+
+---
+
+## 👨🏻‍💻 Languages & Tools  
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429
