@@ -1,8 +1,5 @@
-### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" />
-<!-- استبدلنا الصورة الكبيرة الأولى بهادي -->
+<!-- صورة الهيدر -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-
 
 ![](https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Visits&color=blue&style=for-the-badge)
 
@@ -11,22 +8,24 @@
   <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 </a>
 
-<!-- هادي هي صورة الأنمي الكبيرة اللي زدتها فقط -->
+### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" />
 
-- 👋 Hi, I'm Abdellah, a passionate Frontend Developer and Cybersecurity enthusiast.
-- 🔭 Currently working on building clean and responsive user interfaces.
-- 🌱 Continuously learning and practicing cybersecurity techniques.
-- 💬 Ask me about React, CSS, JavaScript, or cybersecurity.
-- 😄 I enjoy tackling new challenges and growing my skills every day.
-- ⚡ Fun fact: I love exploring new technologies and ethical hacking!
+- 👋 Hi, I'm **Abdellah**, a passionate **Frontend Developer** and **Cybersecurity** enthusiast.  
+- 🔭 Currently working on building **clean and responsive user interfaces**.  
+- 🌱 Continuously learning and practicing **cybersecurity techniques**.  
+- 💬 Ask me about **React, CSS, JavaScript, or cybersecurity**.  
+- 😄 I enjoy tackling new challenges and growing my skills every day.  
+- ⚡ Fun fact: I love exploring **new technologies** and **ethical hacking**!  
+
+---
 
 #### 📫 Connect with me:
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AbdellahAkhssay) &nbsp; 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdellah05akhssay@gmail.com)
 
-#### 👨🏻‍💻 Languages & Tools:
+---
 
+#### 👨🏻‍💻 Languages & Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -38,8 +37,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
 
+---
 
-
+#### 📊 GitHub Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=AbdellahAkhssay&show_icons=true&theme=radical)](https://github.com/AbdellahAkhssay)
+
 
 
